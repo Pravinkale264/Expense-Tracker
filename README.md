@@ -1,8 +1,10 @@
-# Expense-Tracker
+# 📱Expense-Tracker
 
 ### Live Website Link: https://indianexpensetracker.netlify.app/
 
 ### Website Demo
+#### Expense-Tracker is a MERN application which is developed to keep track of daily expenses. It has a simple UI and good user experience.
+
 ## Desktop View
 <div>
   
